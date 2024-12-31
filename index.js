@@ -1,3 +1,6 @@
+// npm init
+// npm install dotenv, express 
+
 
 require('dotenv').config();
 
