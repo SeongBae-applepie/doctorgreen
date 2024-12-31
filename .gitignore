@@ -1,0 +1,9 @@
+# package
+package-lock.json
+package.json
+package/
+node_modules/
+.env
+
+
+
