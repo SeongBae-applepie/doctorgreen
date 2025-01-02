@@ -1,6 +1,6 @@
-CREATE DATABASE doctorgreen;
+CREATE DATABASE doctorgreenDB;
 
-USE doctorgreen;
+USE doctorgreenDB;
 
 CREATE TABLE Users (
     Id VARCHAR(255) NOT NULL PRIMARY KEY,  -- 사용자 아이디 (영어 문자열, 고유 값)
